@@ -1,0 +1,6 @@
+Implementation of an illnesses diagnoser class, using a decision tree based on
+medical records of illnesses symptoms, and its companion classes.
+
+This exercise aimed at practicing some basic proper coding standards:
+Readability, efficiency, using comments and documentation,
+writing short functions and helper functions, and avoiding code duplication.
